@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR" >
     <head>
         <title>Unidade 02 - Elemento Head</title>
@@ -6,14 +6,14 @@
 
         <style>
             body{
-              background: #808080;
+              background: #ccc;
               font-family: sans-serif;
               color: #fff;
             }
         </style>
 
         <script>
-            function escreverNome () {
+            function escreverNome() {
               nome.innerHTML = "Gustavo Lago";
             }
             window.onload = escreverNome;
